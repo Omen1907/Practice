@@ -1,0 +1,26 @@
+.timerBtn{
+    width: 80px;
+    height: 30px;
+    border: 3px solid black;
+    border-radius: 12px;
+    background-color: #333333;
+    color: white;
+    cursor: pointer;
+    font-family: consolas, monospace;
+    background: linear-gradient(150deg, rgba(252, 47, 81, 0.466), rgba(26, 99, 255, 0.493));
+    margin-bottom: 5px;
+}
+
+#timeDisplay{
+    font-size: 75px;
+    color: #ff6b84;
+    font-family: consolas, monospace;
+}
+
+#timeContainer{
+    text-align: center;
+    border: 1px solid;
+    border-radius: 25px;
+    background-color: #ebebeb;
+}
+
