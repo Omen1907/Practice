@@ -1,0 +1,1 @@
+This is not just one project, nor are they precisely mine. These are a collections of projects that I used as practice for programming. They are not for sale, but only for the benefit of my studies. The original owners can be found on YouTube providing tutorial videos.
